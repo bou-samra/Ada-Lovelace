@@ -1,5 +1,5 @@
 # Ada Lovelace: A Historical Record
-
+<img src="all.png" width="150" align="left" style="margin-right: 15px;">
 Ada Lovelace (1815–1852) was an English mathematician and writer, known for her work on Charles Babbage’s Analytical Engine, an early mechanical computer. She is often called the first computer programmer because she understood that machines could do more than just calculate numbers.
 
 She was born Augusta Ada Byron, the daughter of the poet Lord Byron and Anne Isabella Milbanke. Her father was famous for his poetry, but her mother encouraged her to study mathematics and logic to keep her focused and disciplined.
@@ -32,10 +32,10 @@ She is remembered as the first programmer, someone who saw the full potential of
 
 ## Approximate Timeline
 
-1815 – Born in London, England  
-1828–1832 – Studied mathematics and logic with tutors including Mary Somerville and Augustus De Morgan  
-1833 – Met Charles Babbage and began working on the Analytical Engine  
-1842–1843 – Translated Menabrea’s memoir and wrote her notes, including the first algorithm  
-1852 – Died at age 36 in London
+1815 – Born in London, England</br>
+1828–1832 – Studied mathematics and logic with tutors including Mary Somerville and Augustus De Morgan</br>
+1833 – Met Charles Babbage and began working on the Analytical Engine</br>
+1842–1843 – Translated Menabrea’s memoir and wrote her notes, including the first algorithm</br>
+1852 – Died at age 36 in London</br>
 
 Today, every time we write code, run a program, or use a computer for music or art, we are using ideas Ada Lovelace first imagined.
