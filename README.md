@@ -1,8 +1,9 @@
 # Ada Lovelace: A Historical Record
 <img src="all.png" width="150" align="left" style="margin-right: 15px;">
-Ada Lovelace (1815–1852) was an English mathematician and writer, known for her work on Charles Babbage’s Analytical Engine, an early mechanical computer. She is often called the first computer programmer because she understood that machines could do more than just calculate numbers.</br>
 
-She was born Augusta Ada Byron, the daughter of the poet Lord Byron and Anne Isabella Milbanke. Her father was famous for his poetry, but her mother encouraged her to study mathematics and logic to keep her focused and disciplined.</br>
+Ada Lovelace (1815–1852) was an English mathematician and writer, known for her work on Charles Babbage’s Analytical Engine, an early mechanical computer. She is often called the first computer programmer because she understood that machines could do more than just calculate numbers.
+
+She was born Augusta Ada Byron, the daughter of the poet Lord Byron and Anne Isabella Milbanke. Her father was famous for his poetry, but her mother encouraged her to study mathematics and logic to keep her focused and disciplined.
 
 With guidance from leading mathematicians of her time, Ada combined careful thinking with imagination, which allowed her to write work that was far ahead of her time.
 
